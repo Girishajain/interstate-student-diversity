@@ -4,7 +4,7 @@ Attached Files description -
   2. NIRF Raw Data: Consist of raw data used for analysis
   3. Code: The classification learner and regression learner (i.e., CGFI_RL, SGFI_RL and SFI_RL) codes were attached as text document. 
 
-Usage Guide: The code can be run in MATLAB Classification Learner and Regression Learner tool. This code was generated using MATLAB 2024a and is also supported by above version.
+Usage Guide: The code can be run using MATLAB Classification Learner and Regression Learner tool. This code was generated using MATLAB 2024a and is also supported by above version.
 For further questions or support, you can reach out to girishajain96@gmail.com
   
 
